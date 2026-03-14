@@ -15,3 +15,6 @@ Excel: Data preprocessing and initial Pivot Table analysis.
 DAX (Data Analysis Expressions): Complex calculations and custom metrics.
 
 
+
+
+
